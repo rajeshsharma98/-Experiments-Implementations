@@ -57,9 +57,9 @@ This project explores classifying tweets into categories (e.g. sentiment, topic,
 
 ### 🔹 [Library Management System](https://github.com/rajeshsharma98/library-management-system-python-)  
 A concise sentence or two about what the project does, what it’s for.  
-- 🧩 Point 1: core feature, novelty, or architecture.
-- 🚀 Point 2: what makes it interesting or challenging.
-- 🧪 Point 3: results, evaluations, or use-cases .   
+- 🧩 Feature 1: core feature, novelty, or architecture.
+- 🚀 Feature 2: what makes it interesting or challenging.
+- 🧪 Feature 3: results, evaluations, or use-cases .   
 
 ---  
 ### 🔹 [Crypto Collect](https://github.com/rajeshsharma98/CryptoCollect)  
